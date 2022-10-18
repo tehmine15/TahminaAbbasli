@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tahmina</h1>
+<h1 align="center">Hi 👋, I'm Tahmina :blush: </h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="450" height="250">
